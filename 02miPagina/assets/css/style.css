@@ -1,0 +1,84 @@
+body {
+   
+    margin: 10px 30px;
+}
+
+h1 {
+    color: rgb(33, 43, 84);
+    font-family: 'Philosopher', sans-serif;
+    padding: 20px;
+    background-color: #89D9F0;
+    text-align: center;
+}
+h2 {
+    font-size: 25px;
+    font-family: 'Merienda', cursive;
+}
+
+.imagen {
+    margin-left: 40%;
+    border-radius: 4%;
+}
+
+p, li, dl {
+    padding-left: 10px;
+    font-family: 'Lato', sans-serif;
+}
+dt {
+    font-weight: bolder;
+}
+
+li {
+    line-height: 30px;
+}
+#foto {
+  
+    padding-bottom: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://st2.depositphotos.com/1106005/8644/i/600/depositphotos_86445800-stock-photo-teal-and-white-doggy-tile.jpg);
+}
+
+#presentacion {
+    padding-top: 30px;    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/984/280/original/floral-background-with-cherry-blossoms-in-full-bloom-isolated-on-a-white-background-free-vector.jpg);
+}
+
+#logro {
+    padding-top: 30px;
+    background-position: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://storage.googleapis.com/blog-setmore/1/2018/04/setmore-ranked-best-software-user-friendly-category.png);
+}
+
+#bebidas {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://www.roosterbrother.com/wp-content/uploads/2017/06/coffee-background-top.jpg);
+}
+
+#canciones {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210918/pngtree-notes-light-blue-watercolor-graffiti-background-image_902985.png);
+}
+#etiquetas {
+    background-position: 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://www.perfectlancer.com/blog/wp-content/uploads/2023/01/pink-3d-html-tags-on-blue-and-white-background.jpg.webp);
+}
+
+#listas {
+  
+    background-repeat: no-repeat;
+    background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700822458-optimized.jpg);
+}
+
+table {
+    border: 2px solid blueviolet;
+}
+td {border-bottom:1.5px dashed #89D9F0;}
